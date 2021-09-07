@@ -12,6 +12,24 @@ dependencies:
 
   cupertino_icons: ^1.0.3
 
+  # My
+  flutter_common_package:
+    git:
+      url: https://github.com/wjprogramer/flutter_common_package
+      ref: ce322d3
+
+  # MIT
+  # Android iOS Linux macOS web Windows
+  moor: ^4.5.0
+  # Android iOS macOS
+  sqlite3_flutter_libs: ^0.5.0
+
+  # BSD
+  # Android iOS Linux macOS Windows
+  path_provider: ^2.0.3
+  # Android iOS Linux macOS web Windows
+  path: ^1.8.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
